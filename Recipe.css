@@ -1,0 +1,32 @@
+body{
+    font-weight: 400px;
+    font-size: 16px;
+    background: hsl(0, 0%, 100%);
+    text-align: left;
+    }
+p{
+    font-family: Outfit;
+    text-align: left;
+}
+table{
+    width: 400px;
+    font-family:Outfit ;
+    margin-inline-start: 20px;
+}
+h1,h2,h3,h4{
+    font-family: Young Serif;
+}
+h2,h3,h4{
+    font-size: 24px;
+    color:hsl(14, 45%, 36%);
+}
+h{
+    font-size: 16px;
+    color:  hsl(332, 51%, 32%);
+    text-align:left;
+    padding: 20px;
+}
+ol,ul{
+    font-family: Outfit;
+    
+}

@@ -1,0 +1,5 @@
+main{
+    display: flex;
+    border: 5px solid red;
+    flex-wrap: wrap;
+}
